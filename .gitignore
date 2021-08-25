@@ -5,3 +5,6 @@
 /.vscode
 /source/WasmModule.d.ts
 /source/WasmModule.js
+.idea
+build
+cmake-build-*
